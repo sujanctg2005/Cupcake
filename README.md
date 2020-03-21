@@ -1,2 +1,0 @@
-# Cupcake
-Created with CodeSandbox
